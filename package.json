@@ -1,0 +1,34 @@
+{
+  "name": "gulp-carpo-logger",
+  "description": "Node.JS Gulp module: Advanced Logger",
+  "main": "index.js",
+  "author": {
+    "name": "Markoham"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Markoham/gulp-carpo-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Markoham/gulp-carpo-logger/issues"
+  },
+  "licenses": [
+    {
+      "type": "CC BY 4.0",
+      "url": "https://github.com/Markoham/gulp-carpo-logger/blob/master/LICENSE"
+    }
+  ],
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+  ],
+  "private": true,
+  "os": [
+    "linux"
+  ],
+  "dependencies": {
+    "carpo-logger": "markoham/carpo-logger"
+  }
+}
