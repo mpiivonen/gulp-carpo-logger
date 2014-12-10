@@ -10,13 +10,13 @@ Syntax
 ```javascript
 logger(file, weeks, pattern);
 ```
-*** file ***
+**file**
 default: custom.log
 
-*** weeks ***
+**weeks**
 default: 4
 
-*** pattern ***
+**pattern**
 default: 0 0 * * * 1
 
 Example
