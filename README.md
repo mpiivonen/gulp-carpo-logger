@@ -11,12 +11,21 @@ Syntax
 logger(file, weeks, pattern);
 ```
 **file**
+
+Carpo-Logger custom log file
+
 default: custom.log
 
 **weeks**
+
+Log roration (Weekly)
+
 default: 4
 
 **pattern**
+
+Use crontab format.
+
 default: 0 0 * * * 1
 
 Example
