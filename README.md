@@ -4,6 +4,11 @@ gulp-carpo-logger
 
 Node.JS Gulp module: Advanced Logger
 
+Features
+--------
+* backup weekly
+* keep record of last four weeks
+
 Syntax
 -------
 Syntax
