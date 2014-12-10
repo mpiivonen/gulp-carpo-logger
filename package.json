@@ -22,13 +22,15 @@
   "files": [
     "LICENSE",
     "README.md",
-    "index.js",
+    "index.js"
   ],
   "private": true,
   "os": [
     "linux"
   ],
   "dependencies": {
-    "carpo-logger": "markoham/carpo-logger"
+    "carpo-logger": "markoham/carpo-logger",
+    "cron": "^1.0.5",
+    "fs-sync": "^0.2.5"
   }
 }
